@@ -29,11 +29,11 @@ func GetInstance() (*Storage, error) {
 
 func findMaxKey[T interface{}](m map[int64]T) int64 {
 	var maxKey int64
-	for k, _ := range m {
+	for k := range m {
 		maxKey = k
 		break
 	}
-	for key, _ := range m {
+	for key := range m {
 		if key > maxKey {
 			maxKey = key
 		}
