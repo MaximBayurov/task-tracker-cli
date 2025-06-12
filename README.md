@@ -1,4 +1,4 @@
-# Task Tracker CLI
+# Task Tracker CLI [![Release](https://img.shields.io/github/release/MaximBayurov/task-tracker-cli.svg?style=flat-square)](https://github.com/MaximBayurov/task-tracker-cli/releases/latest)
 
 This is the realization of project from [roadmap.sh](https://roadmap.sh)
 
@@ -23,3 +23,8 @@ The structure of project was implemented from open GitHub's repo [golang-standar
 
 The project was developed with educational purposes
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/MaximBayurov/task-tracker-cli?style=flat-square)](https://goreportcard.com/report/github.com/MaximBayurov/task-tracker-cli)
+
+All info about reusable packages allowed by link in this badge:
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/MaximBayurov/task-tracker-cli.svg)](https://pkg.go.dev/github.com/MaximBayurov/task-tracker-cli)
